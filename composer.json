@@ -1,0 +1,12 @@
+{
+    "name": "thecodemill/eloquent-sort",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TheCodeMill\\EloquentSort\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/database": ">=5.0"
+    }
+}
